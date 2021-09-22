@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyDKWkz2XzOYaqJxF5SGKEdHkU_pKvuLgKg",
-    authDomain: "ema-jhon-extera.firebaseapp.com",
-    projectId: "ema-jhon-extera",
-    storageBucket: "ema-jhon-extera.appspot.com",
-    messagingSenderId: "187473516239",
-    appId: "1:187473516239:web:8c7f5a397f4770c40d09ba"
-  };
+  apiKey: "AIzaSyAM73Z-jEuVybMdtBhksFtlhZ10O1pCnVU",
+  authDomain: "fire-auth-test-3b5be.firebaseapp.com",
+  projectId: "fire-auth-test-3b5be",
+  storageBucket: "fire-auth-test-3b5be.appspot.com",
+  messagingSenderId: "300104249753",
+  appId: "1:300104249753:web:180b76aa2cb19f649f2308"
+};
   
   export default firebaseConfig;
